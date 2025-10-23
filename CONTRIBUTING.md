@@ -1,0 +1,1 @@
+# Contributing\nPlease read CONTRIBUTING.md\n
